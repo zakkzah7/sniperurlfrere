@@ -84,4 +84,4 @@ client.on('message', async (message) => {
     
 
 });
-client.login("ODQyNDg3NjEzNTU0MTYzNzIy.YJ2Buw.Sf-pHzUKj2ccLtg6wrDSp01vkQc"); //Head to https://discord.com/developers/applications 
+client.login("ODQyNDg3NjEzNTU0MTYzNzIy.YJ2Buw.fjYtfgm6qwk_U7H6v600J3rzhFg"); //Head to https://discord.com/developers/applications 
